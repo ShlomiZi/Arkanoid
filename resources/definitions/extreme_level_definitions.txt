@@ -1,0 +1,71 @@
+# Level 1
+# Wellcome to Hell!
+
+START_LEVEL
+level_name:Welcome to Hell!
+ball_velocities:45,600 -45,600
+background:image(background_images/welcometohell.jpg)
+paddle_speed:650
+paddle_width:100
+block_definitions:definitions/hell_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:24
+START_BLOCKS
+-------a
+------a-a
+-----a---a
+----a-----a
+---a-------a
+--a---------a
+-aaaaaaaaaaaaa
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+# Blackness
+
+START_LEVEL
+level_name: Blackness
+ball_velocities:60,650 -60,650
+background:image(background_images/blackness.jpg)
+paddle_speed:650
+paddle_width:70
+block_definitions:definitions/blackness_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:36
+START_BLOCKS
+-
+--xxxxxxxxxx
+--x---xx---x
+--x--x--x--x
+--x-x----x-x
+--xx------xx
+--xxxxxxxxxx
+END_BLOCKS
+END_LEVEL
+
+# Level 3
+# Happy Endind
+
+START_LEVEL
+level_name: Happy Ending
+ball_velocities:30,550 -30,550
+background:image(background_images/bubbles.jpg)
+paddle_speed:700
+paddle_width:100
+block_definitions:definitions/ending_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:4
+START_BLOCKS
+-
+-
+-
+-----dddd----
+END_BLOCKS
+END_LEVEL
