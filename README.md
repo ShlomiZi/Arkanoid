@@ -1,5 +1,4 @@
-A project in "OOP" course.
-Arkanoid game in Java.
+Java based Arkanoid game - first OOP proeject.
 The game was developed according to OOP principles learned throughout the course.
 The game supports a "high scores" file, and levels with an increasing order of difficulty,
 and allows users to create their own levels and level sets without any coding,
