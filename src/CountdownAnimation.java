@@ -8,8 +8,6 @@ import biuoop.Sleeper;
  * a countdown from countFrom back to 1, where each number will
  * appear on the screen for (numOfSeconds / countFrom) secods, before
  * it is replaced with the next one.
- *
- * @author Shlomi Zidmi
  */
 public class CountdownAnimation implements Animation {
     //class members
