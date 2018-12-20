@@ -4,8 +4,6 @@ import java.util.ArrayList;
 /**
  * This class represents a collection of Sprite
  * objects.
- *
- * @author Shlomi Zidmi
  */
 public class SpriteCollection {
 
