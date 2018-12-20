@@ -4,8 +4,6 @@ import biuoop.KeyboardSensor;
 /**
  * This class wraps an Animation class object,
  * and handles with his stopping-key proceess.
- *
- * @author Shlomi Zidmi
  */
 public class KeyPressStoppableAnimation implements Animation {
 
