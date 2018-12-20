@@ -3,8 +3,6 @@ import java.awt.Color;
 /**
  * This class handles the task of creating the correct
  * color from a given String.
- *
- * @author Shlomi Zidmi
  */
 public class ColorsParser {
     /**
