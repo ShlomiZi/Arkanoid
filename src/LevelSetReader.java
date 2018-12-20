@@ -5,8 +5,6 @@ import java.io.LineNumberReader;
 /**
  * This class is being used for
  * reading level set file.
- *
- * @author Shlomi Zidmi
  */
 public class LevelSetReader {
 
