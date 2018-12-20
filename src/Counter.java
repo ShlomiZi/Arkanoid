@@ -1,7 +1,5 @@
 /**
  * This class deals with counting.
- *
- * @author Shlomi Zidmi
  */
 public class Counter {
 
