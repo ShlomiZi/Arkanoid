@@ -4,8 +4,6 @@ import java.awt.Color;
 /**
  * This class is responsible for displaying the score
  * during the game.
- *
- * @author Shlomi Zidmi
  */
 public class LevelIndicator implements Sprite {
     //class members
