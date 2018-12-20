@@ -10,8 +10,6 @@ import java.io.ObjectOutputStream;
 /**
  * This class deals with saving and loading of
  * the game high scores.
- *
- * @author Shlomi Zidmi
  */
 class HighScoresTable implements java.io.Serializable {
 
