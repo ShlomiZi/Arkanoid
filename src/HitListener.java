@@ -1,7 +1,5 @@
 /**
  * HitListener interface.
- *
- * @author Shlomi Zidmi
  */
 public interface HitListener {
    /**
