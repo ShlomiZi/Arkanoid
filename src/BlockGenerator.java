@@ -4,8 +4,6 @@ import java.util.TreeMap;
  * BlockGenerator class.
  * This class implements the BlockCreator iterface,
  * and being used mainly for generating new blocks.
- *
- * @author Shlomi Zidmi
  */
 public class BlockGenerator implements BlockCreator {
     //class members
