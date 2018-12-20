@@ -1,8 +1,6 @@
 /**
 * This HelperClass contains some useful methods
 * which were being used durin the coding proccess.
-*
-* @author Shlomi Zidmi
 */
 public class HelperClass {
 
