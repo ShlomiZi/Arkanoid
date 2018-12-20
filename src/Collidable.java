@@ -2,8 +2,6 @@
 * This is the Collidable interface.
 * Each class implementing this interface will have
 * to implement all of his methods.
-*
-* @author Shlomi Zidmi
 */
 public interface Collidable {
    /**
