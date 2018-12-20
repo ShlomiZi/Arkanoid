@@ -8,7 +8,6 @@ import biuoop.KeyboardSensor;
  * This class is responsible for the game's menu.
  * The class implements the Menu interface.
  *
- * @author Shlomi Zidmi
  * @param <T> the type of menu
  */
 public class MenuAnimation<T> implements Menu<T> {
