@@ -2,8 +2,6 @@ import biuoop.KeyboardSensor;
 
 /**
  * This class handles with showing the high scores.
- *
- * @author Shlomi Zidmi
  */
 public class ShowHiScoresTask implements Task<Void> {
     //class members
