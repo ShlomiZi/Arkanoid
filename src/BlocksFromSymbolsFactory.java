@@ -3,8 +3,6 @@ import java.util.Map;
 /**
  * This class is responsible for creating
  * blocks from text symbols.
- *
- * @author Shlomi Zidmi
  */
 public class BlocksFromSymbolsFactory {
     //class members
