@@ -4,8 +4,6 @@ import java.awt.Color;
 /**
  * This class is responsible for displaying the amount
  * of remaining lives during the game.
- *
- * @author Shlomi Zidmi
  */
 public class LivesIndicator implements Sprite {
     //class members
