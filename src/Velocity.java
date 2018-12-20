@@ -1,8 +1,6 @@
 /**
 * This class represents Velocity
 * in terms of speed and direction (angle).
-*
-* @author Shlomi Zidmi
 */
 
 // Velocity specifies the change in position on the `x` and the `y` axes.
