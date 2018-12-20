@@ -9,8 +9,6 @@ import java.io.InputStream;
  * This class is respobsible for converting a text file
  * into an actual game level, in accordance to a specific
  * file format.
- *
- * @author Shlomi Zidmi
  */
 public class LevelSpecificationReader {
 
