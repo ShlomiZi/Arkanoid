@@ -2,8 +2,6 @@
 /**
  * This class represents a player's score
  * in the game.
- *
- * @author Shlomi Zidmi
  */
 public class ScoreInfo implements java.io.Serializable {
 
