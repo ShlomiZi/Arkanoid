@@ -1,8 +1,6 @@
 /**
  * This class is being used to represent
  * a level set.
- *
- * @author Shlomi Zidmi
  */
 public class LevelSetHolder {
     //class members
