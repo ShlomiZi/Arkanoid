@@ -1,8 +1,6 @@
 /**
 * This class represents a point.
 * Each point has X and Y values as attributes.
-*
-* @author Shlomi Zidmi
 */
 public class Point {
 
