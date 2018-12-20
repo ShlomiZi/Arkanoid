@@ -1,7 +1,5 @@
 /**
  * HitNotifier interface.
- *
- * @author Shlomi Zidmi
  */
 public interface HitNotifier {
    /**
