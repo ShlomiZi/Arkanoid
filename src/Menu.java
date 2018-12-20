@@ -2,7 +2,6 @@
  * Generic Menu interface.
  *
  * @param <T> the menu type
- * @author Shlomi Zidmi
  */
 public interface Menu<T> extends Animation {
     /**
