@@ -4,8 +4,6 @@ import biuoop.DialogManager;
 
 /**
  * This class handles with running all the levels together.
- *
- * @author Shlomi Zidmi
  */
 public class GameFlow {
     //class members
