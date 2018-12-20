@@ -3,8 +3,6 @@
 * The infromation held is the Point of impact
 * and the Collidable object which was involved in
 * the collision.
-*
-* @author Shlomi Zidmi
 */
 public class CollisionInfo {
 
