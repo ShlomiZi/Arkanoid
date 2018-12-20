@@ -1,8 +1,6 @@
 
 /**
 * This class is executing the Exit task.
-*
-* @author Shlomi Zidmi
 */
 public class ExitTask implements Task<Void> {
     //class members
