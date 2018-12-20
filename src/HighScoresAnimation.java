@@ -5,8 +5,6 @@ import java.util.List;
 
 /**
  * This class is in charge of the HighSores animation.
- *
- * @author Shlomi Zidmi
  */
 public class HighScoresAnimation implements Animation {
 
