@@ -5,8 +5,6 @@ import java.util.List;
  * Classes that implements this interface holds inforamtion
  * regarding their levels (like ball's speed, paddle of speed,
  * number of blocks..)
- *
- * @author Shlomi Zidmi
  */
 public interface LevelInformation {
     /**
