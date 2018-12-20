@@ -7,8 +7,6 @@ import java.awt.Image;
  * This class is in charge of creating
  * the Background(Sprite) using the information
  * given in from a text file.
- *
- * @author Shlomi Zidmi
  */
 public class BackgroundCreator implements Sprite {
 
