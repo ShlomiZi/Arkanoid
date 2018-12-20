@@ -8,8 +8,6 @@ import java.util.TreeMap;
  * while implementing LevelInformation iterface.
  * Main use of this class is creating levels from a
  * written fles.
- *
- * @author Shlomi Zidmi
  */
 public class LevelCreator implements LevelInformation {
 
