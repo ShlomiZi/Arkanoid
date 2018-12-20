@@ -1,8 +1,6 @@
 /**
  * This class implements HitListener into a
  * Ball remover object.
- *
- * @author Shlomi Zidmi
  */
 public class BallRemover implements HitListener {
     //class members
