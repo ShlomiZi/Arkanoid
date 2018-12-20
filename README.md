@@ -1,4 +1,4 @@
-Java based Arkanoid game - first OOP proeject.
+Java based Arkanoid game - first OOP project.
 The game was developed according to OOP principles learned throughout the course.
 Supports a "high scores" file, and levels with an increasing order of difficulty,
 and allows users to create their own levels and level sets without any coding,
