@@ -2,8 +2,6 @@ import biuoop.DrawSurface;
 
 /**
  * Animation interface.
- *
- * @author Shlomi Zidmi
  */
 public interface Animation {
     /**
