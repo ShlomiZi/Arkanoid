@@ -4,8 +4,6 @@ import biuoop.Sleeper;
 
 /**
  * Class charge of running the animation.
- *
- * @author Shlomi Zidmi
  */
 public class AnimationRunner {
     //class members
