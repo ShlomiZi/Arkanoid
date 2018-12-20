@@ -2,8 +2,6 @@
 /**
  * BlockCreator infterface.
  * Used for classes which will create new blocks.
- *
- * @author Shlomi Zidmi
  */
 public interface BlockCreator {
       /**
