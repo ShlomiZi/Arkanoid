@@ -4,8 +4,6 @@ import biuoop.DrawSurface;
 * This is the Sprite interface.
 * Each class implementing this interface will have
 * to implement all of his methods.
-*
-* @author Shlomi Zidmi
 */
 public interface Sprite {
    /**
