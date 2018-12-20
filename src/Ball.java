@@ -6,8 +6,6 @@ import java.awt.Color;
 * This class represents a Ball.
 * Each ball has the following attributes:
 * Location, size, color, velocity and boundaries.
-*
-* @author Shlomi Zidmi
 */
 public class Ball implements Sprite {
 
