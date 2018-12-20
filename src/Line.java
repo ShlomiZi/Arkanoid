@@ -2,8 +2,6 @@
 * This class represents a Line.
 * Each line has both starting and ending points,
 * and each point is a Point class instance.
-*
-* @author Shlomi Zidmi
 */
 public class Line {
 
