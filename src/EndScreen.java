@@ -3,8 +3,6 @@ import java.awt.Color;
 
 /**
  * This class is responsible for the game ending screen.
- *
- * @author Shlomi Zidmi
  */
 public class EndScreen implements Animation {
     //class members
