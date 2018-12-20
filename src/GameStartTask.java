@@ -7,8 +7,6 @@ import java.io.InputStreamReader;
 
 /**
 * This class handles with stating the game.
-*
-* @author Shlomi Zidmi
 */
 public class GameStartTask implements Task<Void> {
     //class members
