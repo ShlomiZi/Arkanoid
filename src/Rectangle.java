@@ -5,8 +5,6 @@ import java.util.ArrayList;
 * Each rectangle has its starting top left Point,
 * both width and height, color and an array which
 * contains all of his outer lines.
-*
-* @author Shlomi Zidmi
 */
 public class Rectangle {
 
