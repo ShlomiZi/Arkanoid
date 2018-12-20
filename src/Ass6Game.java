@@ -7,8 +7,6 @@ import java.io.InputStream;
 
 /**
  * This class runs the game.
- *
- * @author Shlomi Zidmi
  */
 public class Ass6Game {
 
