@@ -1,8 +1,6 @@
 /**
  * ScoreTrackingListener class.
  * This class handles with calculating the game score.
- *
- * @author Shlomi Zidmi
  */
 public class ScoreTrackingListener implements HitListener {
     //class members
