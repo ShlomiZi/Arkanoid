@@ -6,8 +6,6 @@ import java.io.LineNumberReader;
  * definitions file, and creating
  * a BlocksFromSymbolsFactory object, that will be in
  * charge of blocks creating.
- *
- * @author Shlomi Zidmi
  */
 public class BlocksDefinitionReader {
     /**
