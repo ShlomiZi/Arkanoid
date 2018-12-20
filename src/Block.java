@@ -10,8 +10,6 @@ import javax.imageio.ImageIO;
 * This class represents a Block.
 * The class is implementing the Collidable and Sprite interfaces.
 * A block is a game object, which the ball can be collided with
-*
-* @author Shlomi Zidmi
 */
 public class Block implements Collidable, Sprite, HitNotifier {
 
