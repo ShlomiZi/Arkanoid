@@ -4,8 +4,6 @@ import biuoop.DrawSurface;
 /**
  * This class is responsible for the game's
  * pause screen.
- *
- * @author Shlomi Zidmi
  */
 public class PauseScreen implements Animation {
 
